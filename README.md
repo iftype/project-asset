@@ -30,3 +30,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [539](jachwi-sunbae/539) | 지도 마커용 서버 렌더러 하나만 싣기 (번들 구성 전후) |
 | jachwi-sunbae | [540](jachwi-sunbae/540) | 랜딩 캡처 WebP, 영상 재압축 (전후 화면 비교) |
 | jachwi-sunbae | [issue-542](jachwi-sunbae/issue-542) | 이슈 #542 동네 찾기 지도 확대 축소 중 하얗게 빔 (화면 기록 GIF) |
+| jachwi-sunbae | [553](jachwi-sunbae/553) | 본 방 기록 통근 버튼, 메뉴 닫기, 리스트 선택 지도 이동, 새 매물 정보 탭 (전후 GIF) |
