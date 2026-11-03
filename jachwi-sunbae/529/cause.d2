@@ -1,0 +1,23 @@
+direction: down
+title: "동네 찾기를 누르면 지도가 깜빡이는 이유" {near: top-center; shape: text; style.font-size: 28}
+
+before: "고치기 전" {
+  direction: down
+  click: "'이 조건으로 동네 찾기' 클릭"
+  search: "헤더의 출퇴근 장소 검색창이 사라짐"
+  header: "헤더 높이 71.79px → 71.39px" {style.fill: "#fff3bf"}
+  map: "지도 영역 clientHeight 655 → 656" {style.fill: "#fff3bf"}
+  ro: "ResizeObserver가 autoResize() 호출"
+  canvas: "WebGL 캔버스 크기가 바뀌며\n한 프레임 비어 보임" {style.fill: "#ffe3e3"}
+  click -> search -> header -> map -> ro -> canvas
+}
+
+after: "고친 뒤" {
+  direction: down
+  click: "'이 조건으로 동네 찾기' 클릭"
+  search: "헤더의 출퇴근 장소 검색창이 사라짐"
+  header: "헤더 가운데 자리를 2.5em으로 고정\n헤더 높이 71.39px 그대로" {style.fill: "#d3f9d8"}
+  stop: "지도 크기가 바뀌지 않아\nResizeObserver가 부르지 않음" {style.fill: "#d3f9d8"}
+  click -> search -> header
+  header -> stop: "여기서 끊김" {style.stroke-dash: 3}
+}
