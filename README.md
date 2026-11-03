@@ -29,3 +29,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [537](jachwi-sunbae/537) | 기록 지도 SDK 미리 받기 (전후 GIF, 워터폴) |
 | jachwi-sunbae | [539](jachwi-sunbae/539) | 지도 마커용 서버 렌더러 하나만 싣기 (번들 구성 전후) |
 | jachwi-sunbae | [540](jachwi-sunbae/540) | 랜딩 캡처 WebP, 영상 재압축 (전후 화면 비교) |
+| jachwi-sunbae | [issue-542](jachwi-sunbae/issue-542) | 이슈 #542 동네 찾기 지도 확대 축소 중 하얗게 빔 (화면 기록 GIF) |
