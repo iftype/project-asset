@@ -22,3 +22,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [513](jachwi-sunbae/513) | 첫 렌더링 마커 이동 (GL 준비 순서) |
 | jachwi-sunbae | [516](jachwi-sunbae/516) | 수도권 행정동 경계 미리 받기 (워터폴 2장) |
 | jachwi-sunbae | [529](jachwi-sunbae/529) | 동네 찾기 시작 때 지도 깜빡임, 헤더 높이 고정 (전후 GIF) |
+| jachwi-sunbae | [530](jachwi-sunbae/530) | 결과 지도 확대 축소 때 목록 깜빡임, 동네 고를 때 다가가는 단계 (전후 GIF 3개) |
