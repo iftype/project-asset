@@ -26,3 +26,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [530](jachwi-sunbae/530) | 결과 지도 확대 축소 때 목록 깜빡임, 동네 고를 때 다가가는 단계 (전후 GIF 3개) |
 | jachwi-sunbae | [531](jachwi-sunbae/531) | 첫 번들 크기 줄이기 (번들 구성 전후 막대) |
 | jachwi-sunbae | [535](jachwi-sunbae/535) | 행정동 경계 좌표 자릿수 줄이기 (워터폴, 전후 스크린샷과 픽셀 차이) |
+| jachwi-sunbae | [537](jachwi-sunbae/537) | 기록 지도 SDK 미리 받기 (전후 GIF, 워터폴) |
