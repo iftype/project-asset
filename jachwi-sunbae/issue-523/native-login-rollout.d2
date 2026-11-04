@@ -1,0 +1,9 @@
+direction: right
+title: 출시된 상태에서 앱 네이티브 로그인으로 옮기는 순서 {near: top-center; shape: text; style.font-size: 28}
+now: "0. 지금 (11/5 제출)\n백엔드 #570 그대로\n앱: WebView 안 로그인" {style.fill: "#ffe3e3"}
+be: "1. 백엔드\n/nonce, /id-token 추가\naud 허용 목록 확장\n(기존 /start, /callback 유지)" {style.fill: "#fff3bf"}
+web: "2. 웹 배포\nfeatures에 auth 있으면 SDK 경로\n없으면 기존 리다이렉트" {style.fill: "#fff3bf"}
+app: "3. 앱 출시\nApple 시트, 카카오 SDK\nfeatures에 auth 추가" {style.fill: "#d3f9d8"}
+now -> be -> web -> app
+safe: "어느 단계에서 멈춰도\n브라우저와 옛 앱은 기존 경로로 로그인" {shape: text; style.font-size: 18}
+web -> safe {style.stroke-dash: 3}

@@ -8,6 +8,7 @@
 | --- | --- |
 | `app-native-oauth-sequence.png` | 앱에서 Apple 시트나 카카오 SDK로 받은 `id_token`을 브리지로 WebView에 넘기고, WebView가 자기 Bearer와 Refresh 쿠키로 백엔드에 보내는 순서. nonce를 그 기기의 익명 회원에 묶어 일회용으로 쓰므로 이관 대상 회원을 정확히 집어낸다. 마지막은 #570의 `completeOAuth`를 그대로 쓴다. |
 | `web-app-oauth-converge.png` | 웹 리다이렉트(#570)와 앱 SDK 경로가 입구만 다르고 같은 `completeOAuth`로 모이는 그림. 이번 제출의 WebView 안 로그인은 RFC 8252가 금지하는 임시 방법이라 빨간색으로 표시했다. |
+| `native-login-rollout.png` | 웹과 앱이 모두 출시된 상태에서 앱 로그인을 네이티브로 옮기는 순서. 지금(WebView 안 로그인) → 백엔드 API 추가 → 웹 배포(기능 감지 분기) → 앱 출시. 어느 단계에서 멈춰도 브라우저와 옛 앱은 기존 경로로 로그인한다. |
 | `*.d2` | 위 그림의 D2 원본(`d2 --sketch`, Pretendard). |
 
 근거: RFC 8252 §8.12, Apple Sign in with Apple 문서(id_token `aud`=client_id, `sub`는 개발 팀 단위로 같음, client secret `sub`=client_id), 카카오 로그인 REST API 문서(ID 토큰 `aud`=요청이나 SDK 초기화에 쓴 앱 키). 측정값 아님. 2026-11-05 작성.
