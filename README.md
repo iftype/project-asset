@@ -35,3 +35,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [555](jachwi-sunbae/555) | 방 비교 매물 1개 상태, 마이 버전 표기 (전후 캡처) |
 | jachwi-sunbae | [559](jachwi-sunbae/559) | 저렴한 한 끼 탭 경로, 새로고침해도 고른 동네와 가게 상세 유지 (전후 GIF, 탭 이동 GIF) |
 | jachwi-sunbae | [562](jachwi-sunbae/562) | 본 방 기록 지도 레일에서 중개, 통근 빼기, 체크리스트 수정 뒤 매물 재적용 (데스크톱, 휴대폰 레일 전후 GIF, 체크리스트 교체 전후 GIF) |
+| jachwi-sunbae | [564](jachwi-sunbae/564) | 날씨 알림 토글 위치 일시 실패, 오류 문구 정리 (전후 나란히 GIF) |
