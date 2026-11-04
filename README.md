@@ -33,3 +33,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [553](jachwi-sunbae/553) | 본 방 기록 통근 버튼, 메뉴 닫기, 리스트 선택 지도 이동, 새 매물 정보 탭 (전후 GIF) |
 | jachwi-sunbae | [554](jachwi-sunbae/554) | 저렴한 한 끼 지도 이동 자동 재검색, 업종 안내 문구, 식당 탭 위쪽 여백 (전후 GIF, 데스크톱 문구 전후, 화면 폭별 여백 전후) |
 | jachwi-sunbae | [555](jachwi-sunbae/555) | 방 비교 매물 1개 상태, 마이 버전 표기 (전후 캡처) |
+| jachwi-sunbae | [559](jachwi-sunbae/559) | 저렴한 한 끼 탭 경로, 새로고침해도 고른 동네와 가게 상세 유지 (전후 GIF, 탭 이동 GIF) |
