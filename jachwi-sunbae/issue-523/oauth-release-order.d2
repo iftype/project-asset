@@ -1,0 +1,21 @@
+direction: down
+title: OAuth 출시 순서 (웹과 앱 모두 운영 중) {near: top-center; shape: text; style.font-size: 28}
+p1: "1단계: WebView 안 로그인으로 먼저 출시" {
+  direction: right
+  style.fill: "#f8f9fa"
+  b1: "① 웹 백엔드\n#570 머지, dev 환경 변수\n/start, /callback" {style.fill: "#d3f9d8"}
+  f1: "② 웹 프론트\n#582 연결 카드, 복귀 화면\n브라우저와 WebView 같은 흐름" {style.fill: "#d3f9d8"}
+  a1: "③ 앱 빌드\n로그인 도메인만\nWebView 안에 허용" {style.fill: "#fff3bf"}
+  a2: "④ 앱 배포\n스토어 심사" {style.fill: "#fff3bf"}
+  b1 -> f1 -> a1 -> a2
+}
+p2: "2단계: 네이티브 로그인으로 전환 (다음 앱 버전)" {
+  direction: right
+  style.fill: "#f8f9fa"
+  b2: "⑤ 웹 백엔드\n/nonce, /id-token 추가\naud 허용 목록 확장\n기존 API 유지" {style.fill: "#fff3bf"}
+  f2: "⑥ 웹 프론트 (분기)\nfeatures에 auth 있으면 SDK 경로\n없으면 기존 리다이렉트" {style.fill: "#fff3bf"}
+  a3: "⑦ 앱 빌드와 배포\nApple 시트, 카카오 SDK\nfeatures에 auth 추가" {style.fill: "#d3f9d8"}
+  b2 -> f2 -> a3
+}
+p1 -> p2
+note: "어느 단계에서 멈춰도 브라우저와 옛 앱은 기존 경로로 로그인" {shape: text; style.font-size: 18; near: bottom-center}
