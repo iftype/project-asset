@@ -32,3 +32,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [issue-542](jachwi-sunbae/issue-542) | 이슈 #542 동네 찾기 지도 확대 축소 중 하얗게 빔 (화면 기록 GIF) |
 | jachwi-sunbae | [553](jachwi-sunbae/553) | 본 방 기록 통근 버튼, 메뉴 닫기, 리스트 선택 지도 이동, 새 매물 정보 탭 (전후 GIF) |
 | jachwi-sunbae | [554](jachwi-sunbae/554) | 저렴한 한 끼 지도 이동 자동 재검색, 업종 안내 문구 (전후 GIF, 데스크톱 문구 전후) |
+| jachwi-sunbae | [555](jachwi-sunbae/555) | 방 비교 매물 1개 상태, 마이 버전 표기 (전후 캡처) |
