@@ -1,0 +1,14 @@
+direction: down
+title: 웹과 앱, 입구만 다르고 이관 로직은 하나 {near: top-center; shape: text; style.font-size: 28}
+web: "웹 브라우저" {shape: rectangle}
+wv: "앱 WebView" {shape: rectangle}
+redirect: "기존 #570\n/start → 제공자 → /callback\n(같은 브라우저 쿠키로 확인)" {style.fill: "#d3f9d8"}
+native: "추가\n/nonce → SDK → /id-token\n(WebView 쿠키로 확인)" {style.fill: "#fff3bf"}
+inwv: "WebView 안 로그인\n(이번 제출의 임시 방법)\nRFC 8252: MUST NOT" {style.fill: "#ffe3e3"}
+core: "completeOAuth(identity)\n처음이면 연결 / 있으면 이관 / 다르면 전환" {style.fill: "#d3f9d8"; style.bold: true}
+web -> redirect
+wv -> inwv: 지금
+wv -> native: 다음 앱 버전
+inwv -> redirect {style.stroke-dash: 3}
+redirect -> core
+native -> core

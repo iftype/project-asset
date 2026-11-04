@@ -1,0 +1,20 @@
+title: 앱 OAuth: SDK로 받은 id_token을 WebView가 서버에 넘긴다 {near: top-center; shape: text; style.font-size: 28}
+seq: "" {
+  shape: sequence_diagram
+  web: "웹 (앱 WebView)\n익명 회원 20번 쿠키"
+  app: "앱 네이티브"
+  idp: "Apple / 카카오"
+  api: "백엔드"
+
+  web -> api: "1. POST /oauth/{p}/nonce\n(Bearer + Refresh 쿠키)"
+  api.n: "20번 확인, 일회용 nonce 저장\n(회원, 쿠키 해시, 5분)" {style.fill: "#fff3bf"}
+  api -> web: "nonce" {style.stroke-dash: 3}
+  web -> app: "2. 브리지 auth.login(p, nonce)"
+  app -> idp: "3. Apple 시트 / 카카오톡 로그인"
+  idp -> app: "id_token (sub, aud, nonce)" {style.stroke-dash: 3}
+  app -> web: "4. 브리지로 id_token 전달" {style.stroke-dash: 3}
+  web -> api: "5. POST /oauth/{p}/id-token\n(같은 Bearer + 쿠키)"
+  api.v: "서명, iss, exp, aud(웹/앱 ID)\nnonce가 20번 것이고 미사용?" {style.fill: "#fff3bf"}
+  api.c: "completeOAuth(20번, sub)\n연결 / 10번으로 이관 / 전환" {style.fill: "#d3f9d8"}
+  api -> web: "6. 새 Refresh 쿠키 + Access Token" {style.stroke-dash: 3}
+}
