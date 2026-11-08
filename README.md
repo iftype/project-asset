@@ -45,3 +45,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [615](jachwi-sunbae/615) | 행정동 경계를 색 구간별로 합쳐 그려 지도 끌기 가볍게 (전후 나란히 끌기 GIF, 원인 손그림) |
 | jachwi-sunbae | [622](jachwi-sunbae/622) | 지도 사용자 지정 스타일을 빼서 GL 끄기 (전후 지도 배경 비교 이미지) |
 | jachwi-sunbae | [issue-523](jachwi-sunbae/issue-523) | 이슈 #523 앱 OAuth 네이티브 SDK와 id_token 설계 (시퀀스, 웹과 앱 경로, 전환 순서 그림) |
+| jachwi-sunbae | [628](jachwi-sunbae/628) | 화면 최종 다듬기 (등록 후 사진 카드 마커 GIF) |
