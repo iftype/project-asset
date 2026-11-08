@@ -43,4 +43,5 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [590](jachwi-sunbae/590) | 방 비교 PDF를 카드형 디자인으로 다시 그리기 (표지와 매물 쪽 전후, 매물 1, 2, 4개) |
 | jachwi-sunbae | [597](jachwi-sunbae/597) | 본 방 기록에서 고른 매물을 바텀시트와 상세 칸에서 이전, 다음으로 넘기기 (휴대폰, 데스크탑 GIF) |
 | jachwi-sunbae | [615](jachwi-sunbae/615) | 행정동 경계를 색 구간별로 합쳐 그려 지도 끌기 가볍게 (전후 나란히 끌기 GIF, 원인 손그림) |
+| jachwi-sunbae | [622](jachwi-sunbae/622) | 지도 사용자 지정 스타일을 빼서 GL 끄기 (전후 지도 배경 비교 이미지) |
 | jachwi-sunbae | [issue-523](jachwi-sunbae/issue-523) | 이슈 #523 앱 OAuth 네이티브 SDK와 id_token 설계 (시퀀스, 웹과 앱 경로, 전환 순서 그림) |
