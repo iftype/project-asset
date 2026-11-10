@@ -46,3 +46,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [622](jachwi-sunbae/622) | 지도 사용자 지정 스타일을 빼서 GL 끄기 (전후 지도 배경 비교 이미지) |
 | jachwi-sunbae | [issue-523](jachwi-sunbae/issue-523) | 이슈 #523 앱 OAuth 네이티브 SDK와 id_token 설계 (시퀀스, 웹과 앱 경로, 전환 순서 그림) |
 | jachwi-sunbae | [628](jachwi-sunbae/628) | 화면 최종 다듬기 (등록 후 사진 카드 마커 GIF) |
+| jachwi-sunbae | [645](jachwi-sunbae/645) | 앱 심사 전 헤더 알림 받기, 동네 시트, 계정 연결 버튼 (전후 나란히 GIF 3개) |
