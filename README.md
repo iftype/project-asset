@@ -48,3 +48,10 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [628](jachwi-sunbae/628) | 화면 최종 다듬기 (등록 후 사진 카드 마커 GIF) |
 | jachwi-sunbae | [645](jachwi-sunbae/645) | 앱 심사 전 헤더 알림 받기, 동네 시트, 계정 연결 버튼 (전후 나란히 GIF 3개) |
 | jachwi-sunbae | [665](jachwi-sunbae/665) | 랜딩 소개 영상을 지금 앱 화면에 맞춘 16:9 영상으로 (데스크톱, 휴대폰 첫 화면 전후 GIF) |
+| jachwi-sunbae | [694](jachwi-sunbae/694) | 방 비교 매물 1개부터 PDF (휴대폰 전후 GIF) |
+| jachwi-sunbae | [695](jachwi-sunbae/695) | 동네 찾기 월세 라벨, 동네 눌러도 지도 그대로 (데스크탑 전후 GIF) |
+| jachwi-sunbae | [696](jachwi-sunbae/696) | 상세 체크리스트 메모 넓히기 (후 GIF) |
+| jachwi-sunbae | [697](jachwi-sunbae/697) | 본 방 기록 빠른 등록 뒤 지도 그대로, 저장 중 핀 (데스크탑 전후 GIF) |
+| jachwi-sunbae | [698](jachwi-sunbae/698) | 매물 상세 주변 환경 지도 (후 GIF) |
+| jachwi-sunbae | [699](jachwi-sunbae/699) | 홈과 마이 다듬기, 데스크탑 헤더 메뉴 통일 (데스크탑, 휴대폰 전후 GIF) |
+| jachwi-sunbae | [700](jachwi-sunbae/700) | 첫 방 전 미리보기 매물 (휴대폰 전후 GIF) |
