@@ -55,3 +55,5 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [698](jachwi-sunbae/698) | 매물 상세 주변 환경 지도 (후 GIF) |
 | jachwi-sunbae | [699](jachwi-sunbae/699) | 홈과 마이 다듬기, 데스크탑 헤더 메뉴 통일 (데스크탑, 휴대폰 전후 GIF) |
 | jachwi-sunbae | [700](jachwi-sunbae/700) | 첫 방 전 미리보기 매물 (휴대폰 전후 GIF) |
+
+| jachwi-sunbae | [702](jachwi-sunbae/702) | 목록·지도 사진 썸네일 전환 (mock 전후 GIF) |
