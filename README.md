@@ -59,3 +59,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [702](jachwi-sunbae/702) | 목록·지도 사진 썸네일 전환 (mock 전후 GIF) |
 | jachwi-sunbae | [713](jachwi-sunbae/713) | 데스크탑 지도 왼쪽 네비 레일, 목록과 상세 패널 붙이기 (GIF 1개) |
 | jachwi-sunbae | [714](jachwi-sunbae/714) | 내 기록 지도 본 방 기록하기, 선택 카드와 주변 시설, 주소 검색 핀 (GIF 3개) |
+| jachwi-sunbae | [715](jachwi-sunbae/715) | 동네 찾기 조건 카드, 월세 슬라이더, 행정동 요약 (GIF 3개) |
