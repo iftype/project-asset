@@ -61,3 +61,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [714](jachwi-sunbae/714) | 내 기록 지도 본 방 기록하기, 선택 카드와 주변 시설, 주소 검색 핀 (GIF 3개) |
 | jachwi-sunbae | [715](jachwi-sunbae/715) | 동네 찾기 조건 카드, 월세 슬라이더, 행정동 요약 (GIF 3개) |
 | jachwi-sunbae | [716](jachwi-sunbae/716) | 동네 북마크와 내 기록 지도 찜한 동네 켜고 끄기 (목업 GIF 2개) |
+| jachwi-sunbae | [717](jachwi-sunbae/717) | 매물 상세 바로 수정, 새 매물 이름 입력, 검색창 애니메이션 (GIF 3개) |
