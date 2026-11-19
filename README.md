@@ -64,3 +64,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [717](jachwi-sunbae/717) | 매물 상세 바로 수정, 새 매물 이름 입력, 검색창 애니메이션 (GIF 3개) |
 | jachwi-sunbae | [737](jachwi-sunbae/737) | 모바일 하단 탭을 웹과 앱 모두 세 개로 통일한다 (모바일 전후 GIF) |
 | jachwi-sunbae | [738](jachwi-sunbae/738) | 동네 시트의 다방 링크를 정사각형 타일로 옮기고 아래 여백을 줄인다 (모바일 전후 GIF) |
+| jachwi-sunbae | [777](jachwi-sunbae/777) | 랜딩 소개 영상과 화면 캡처 교체, 영상 전체 화면 (전후 캡처 6쌍) |
