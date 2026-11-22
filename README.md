@@ -155,3 +155,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | orca | [32716](orca/32716) | iOS 사용량 위젯 캡처(이슈 댓글용) |
 | [jachwi-sunbae/800](jachwi-sunbae/800) | #800 공용 UI effect 정리 화면 판정 |
 | [jachwi-sunbae/801](jachwi-sunbae/801) | #801 내 기록 effect 정리 화면 판정 |
+| [jachwi-sunbae/802](jachwi-sunbae/802) | #802 저렴한 한 끼 effect 정리 화면 판정 |
