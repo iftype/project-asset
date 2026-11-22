@@ -102,6 +102,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [742](jachwi-sunbae/742) | 전후 GIF |
 | jachwi-sunbae | [743](jachwi-sunbae/743) | 전후 GIF |
 | jachwi-sunbae | [744](jachwi-sunbae/744) | 전후 GIF |
+| jachwi-sunbae | [745](jachwi-sunbae/745) | 전후 GIF |
 | jachwi-sunbae | [746](jachwi-sunbae/746) | 전후 GIF |
 | jachwi-sunbae | [747](jachwi-sunbae/747) | 전후 GIF |
 | jachwi-sunbae | [750](jachwi-sunbae/750) | 전후 GIF |
