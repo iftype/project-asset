@@ -9,3 +9,4 @@
 | ios-widget-edit.png | 위젯 편집 화면: Desktop 선택, Agents 여러 개 선택, Usage Window. 같은 기기, 2026-11-22 |
 | ios-widget-medium-v2.png | PR용 중간 크기(고친 뒤): 이름 왼쪽, 업데이트 시간 오른쪽, 리셋 '1시간 49분 후 초기화'. 2026-11-23 04:41 |
 | ios-widget-small-v2.png | PR용 작은 크기(고친 뒤), 같은 시각 |
+| ios-widget-large-v2.png | PR용 큰 크기(고친 뒤), 에이전트 2개. 2026-11-23 04:42 |
