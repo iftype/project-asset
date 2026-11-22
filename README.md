@@ -22,6 +22,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [321](jachwi-sunbae/321) | 전후 GIF |
 | jachwi-sunbae | [389](jachwi-sunbae/389) | 통근 경계 가장 긴 멈춤 1.2초 → 0.2초 (본문 숫자 그림) |
 | jachwi-sunbae | [394](jachwi-sunbae/394) | 전후 GIF |
+| jachwi-sunbae | [410](jachwi-sunbae/410) | 전후 GIF |
 | jachwi-sunbae | [430](jachwi-sunbae/430) | 전후 GIF |
 | jachwi-sunbae | [440](jachwi-sunbae/440) | 전후 GIF |
 | jachwi-sunbae | [452](jachwi-sunbae/452) | 전후 GIF |
