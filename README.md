@@ -70,6 +70,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [651](jachwi-sunbae/651) | 전후 GIF |
 | jachwi-sunbae | [652](jachwi-sunbae/652) | 전후 GIF |
 | jachwi-sunbae | [665](jachwi-sunbae/665) | 랜딩 소개 영상을 지금 앱 화면에 맞춘 16:9 영상으로 (데스크톱, 휴대폰 첫 화면 전후 GIF) |
+| jachwi-sunbae | [670](jachwi-sunbae/670) | 전후 GIF |
 | jachwi-sunbae | [694](jachwi-sunbae/694) | 방 비교 매물 1개부터 PDF (휴대폰 전후 GIF) |
 | jachwi-sunbae | [695](jachwi-sunbae/695) | 동네 찾기 월세 라벨, 동네 눌러도 지도 그대로 (데스크탑 전후 GIF) |
 | jachwi-sunbae | [696](jachwi-sunbae/696) | 상세 체크리스트 메모 넓히기 (후 GIF) |
