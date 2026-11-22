@@ -8,4 +8,4 @@
 | 파일 | 내용 | 출처 |
 | --- | --- | --- |
 | `loading-ui-visible.png` | 응답 100ms와 600ms에서 네 방식이 로딩 UI를 보여 준 구간(ms) | PR #473 본문 `원인` 절의 표(탭 예제로 잰 값). 새로 재지 않음 |
-| `frame-compare.gif` | 왼쪽 고치기 전(develop 01868175), 오른쪽 고친 뒤(머지 e249a927) | Linux Chrome for Testing급 chromium 1248, 개발용 번들 아님(production 빌드)을 dev 도메인에 route로 띄움, dev API에 150ms 지연을 걸고 홈을 3번 새로고침, 휴대폰 390x844, dev 익명 계정, 1회, 2026-11-22 |
+| `frame-compare.gif` | 왼쪽 고치기 전(develop 01868175), 오른쪽 고친 뒤(머지 e249a927) | Linux chromium 1248, production 빌드를 dev 도메인에 route로 띄움, dev API에 150ms 지연을 걸고 홈을 3번 새로고침, 휴대폰 390x844, dev 익명 계정, 1회, 2026-11-22 |
