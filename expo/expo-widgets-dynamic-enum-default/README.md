@@ -14,3 +14,5 @@
 | update-choice-cleared.png | 고친 버전으로 덮어 설치한 뒤 기존 위젯의 Desk 칸이 비어 다시 골라야 함 |
 
 찍은 기기: iPhone 14, iOS 27.2, expo-widgets 58.0.29, 2026-11-22~23.
+| pr-before.png | PR용: before-default-value.png에서 편집 카드만 잘라 냄 |
+| pr-after.png | PR용: after-default-name.png에서 같은 영역을 잘라 냄 |
