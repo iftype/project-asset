@@ -66,6 +66,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [issue-523](jachwi-sunbae/issue-523) | 이슈 #523 앱 OAuth 네이티브 SDK와 id_token 설계 (시퀀스, 웹과 앱 경로, 전환 순서 그림) |
 | jachwi-sunbae | [628](jachwi-sunbae/628) | 화면 최종 다듬기 (등록 후 사진 카드 마커 GIF) |
 | jachwi-sunbae | [645](jachwi-sunbae/645) | 앱 심사 전 헤더 알림 받기, 동네 시트, 계정 연결 버튼 (전후 나란히 GIF 3개) |
+| jachwi-sunbae | [651](jachwi-sunbae/651) | 전후 GIF |
 | jachwi-sunbae | [665](jachwi-sunbae/665) | 랜딩 소개 영상을 지금 앱 화면에 맞춘 16:9 영상으로 (데스크톱, 휴대폰 첫 화면 전후 GIF) |
 | jachwi-sunbae | [694](jachwi-sunbae/694) | 방 비교 매물 1개부터 PDF (휴대폰 전후 GIF) |
 | jachwi-sunbae | [695](jachwi-sunbae/695) | 동네 찾기 월세 라벨, 동네 눌러도 지도 그대로 (데스크탑 전후 GIF) |
