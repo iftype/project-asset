@@ -89,6 +89,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [718](jachwi-sunbae/718) | 첫 화면 번들 크기와 예산 380KiB (본문 표 그림) |
 | jachwi-sunbae | [719](jachwi-sunbae/719) | 전후 GIF |
 | jachwi-sunbae | [721](jachwi-sunbae/721) | 전후 GIF |
+| jachwi-sunbae | [722](jachwi-sunbae/722) | 전후 GIF |
 | jachwi-sunbae | [723](jachwi-sunbae/723) | 전후 GIF |
 | jachwi-sunbae | [736](jachwi-sunbae/736) | 전후 GIF |
 | jachwi-sunbae | [737](jachwi-sunbae/737) | 모바일 하단 탭을 웹과 앱 모두 세 개로 통일한다 (모바일 전후 GIF) |
