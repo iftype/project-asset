@@ -23,6 +23,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [194](jachwi-sunbae/194) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [210](jachwi-sunbae/210) | 첫 화면 번들 크기 전후 (새로 잰 막대) |
 | jachwi-sunbae | [279](jachwi-sunbae/279) | 프로덕션 CSS 압축 전후 크기 (새로 잰 막대) |
+| jachwi-sunbae | [287](jachwi-sunbae/287) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [289](jachwi-sunbae/289) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [303](jachwi-sunbae/303) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [313](jachwi-sunbae/313) | 전후 GIF(목 데이터 화면) |
