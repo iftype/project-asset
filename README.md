@@ -150,3 +150,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [791](jachwi-sunbae/791) | effect 정리(날씨) 화면 판정 |
 | jachwi-sunbae | [792](jachwi-sunbae/792) | 준비 중 화면 삭제 화면 판정 |
 | [jachwi-sunbae/798](jachwi-sunbae/798) | #798 지도 effect 정리 화면 판정 |
+| expo | [expo-widgets-dynamic-enum-default](expo/expo-widgets-dynamic-enum-default) | 위젯 편집 화면 전후 캡처(이슈용) |
