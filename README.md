@@ -95,6 +95,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [722](jachwi-sunbae/722) | 전후 GIF |
 | jachwi-sunbae | [723](jachwi-sunbae/723) | 전후 GIF |
 | jachwi-sunbae | [726](jachwi-sunbae/726) | 전후 GIF |
+| jachwi-sunbae | [727](jachwi-sunbae/727) | 전후 GIF |
 | jachwi-sunbae | [736](jachwi-sunbae/736) | 전후 GIF |
 | jachwi-sunbae | [737](jachwi-sunbae/737) | 모바일 하단 탭을 웹과 앱 모두 세 개로 통일한다 (모바일 전후 GIF) |
 | jachwi-sunbae | [738](jachwi-sunbae/738) | 동네 시트의 다방 링크를 정사각형 타일로 옮기고 아래 여백을 줄인다 (모바일 전후 GIF) |
