@@ -35,6 +35,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [481](jachwi-sunbae/481) | 전후 GIF |
 | jachwi-sunbae | [490](jachwi-sunbae/490) | 전후 GIF |
 | jachwi-sunbae | [492](jachwi-sunbae/492) | 전후 GIF |
+| jachwi-sunbae | [494](jachwi-sunbae/494) | 전후 GIF |
 | jachwi-sunbae | [509](jachwi-sunbae/509) | 등록 진입을 본 방 기록 지도로 모음 (전후 GIF) |
 | jachwi-sunbae | [512](jachwi-sunbae/512) | 첫 방문 흰 화면을 CSS 뼈대로 (첫 페인트 타임라인) |
 | jachwi-sunbae | [513](jachwi-sunbae/513) | 첫 렌더링 마커 이동 (GL 준비 순서) |
