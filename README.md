@@ -18,6 +18,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | 프로젝트 | PR | 내용 |
 | --- | --- | --- |
 | jachwi-sunbae | [389](jachwi-sunbae/389) | 통근 경계 가장 긴 멈춤 1.2초 → 0.2초 (본문 숫자 그림) |
+| jachwi-sunbae | [473](jachwi-sunbae/473) | 로딩 UI 지연과 최소 노출 시간별 보인 구간 (본문 숫자 그림) |
 | jachwi-sunbae | [509](jachwi-sunbae/509) | 등록 진입을 본 방 기록 지도로 모음 (전후 GIF) |
 | jachwi-sunbae | [512](jachwi-sunbae/512) | 첫 방문 흰 화면을 CSS 뼈대로 (첫 페인트 타임라인) |
 | jachwi-sunbae | [513](jachwi-sunbae/513) | 첫 렌더링 마커 이동 (GL 준비 순서) |
