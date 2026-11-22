@@ -17,6 +17,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 
 | 프로젝트 | PR | 내용 |
 | --- | --- | --- |
+| jachwi-sunbae | [210](jachwi-sunbae/210) | 첫 화면 번들 크기 전후 (새로 잰 막대) |
 | jachwi-sunbae | [389](jachwi-sunbae/389) | 통근 경계 가장 긴 멈춤 1.2초 → 0.2초 (본문 숫자 그림) |
 | jachwi-sunbae | [458](jachwi-sunbae/458) | 전후 GIF |
 | jachwi-sunbae | [464](jachwi-sunbae/464) | 전후 GIF |
