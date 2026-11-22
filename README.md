@@ -148,3 +148,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [787](jachwi-sunbae/787) | 남아 있는 화면 위 로딩 지연 (매물 상세 주변 고리 요약 안내 전후 GIF, 느린 응답 GIF) |
 | jachwi-sunbae | [789](jachwi-sunbae/789) | 화면 판정 시험 증거 (#784 대 develop, develop 대 develop의 verdict.md와 같은 시각 나란히 보기) |
 | jachwi-sunbae | [791](jachwi-sunbae/791) | effect 정리(날씨) 화면 판정 |
+| jachwi-sunbae | [792](jachwi-sunbae/792) | 준비 중 화면 삭제 화면 판정 |
