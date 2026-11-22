@@ -13,3 +13,6 @@
 | en-small-7d.png | PR용 작은 크기, 영어, 주간 창(오른쪽 위 7d 라벨), 앱과 같은 아이콘. 2026-11-23 05:16 |
 | en-small-both.png | PR용 작은 크기, 영어, 5h와 7d 둘 다, 앱과 같은 아이콘. 05:16 |
 | en-large.png | PR용 큰 크기, 영어, 앱과 같은 아이콘. 05:16 |
+| en-edit-auto.png | 편집 화면, 영어, 기본값(Most recently updated, Automatic (most used), 5 hours and weekly). 05:17 |
+| en-edit-choose.png | 편집 화면, Agent Selection을 Choose로 바꾸면 Agents 칸이 나타남(Claude, Codex, 순서 바꾸기 가능). 05:19 |
+| en-edit-agents-list.png | Agents 칸을 누르면 뜨는 목록(None, Claude, Codex). 05:17 |
