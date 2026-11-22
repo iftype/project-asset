@@ -157,3 +157,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | [jachwi-sunbae/801](jachwi-sunbae/801) | #801 내 기록 effect 정리 화면 판정 |
 | [jachwi-sunbae/802](jachwi-sunbae/802) | #802 저렴한 한 끼 effect 정리 화면 판정 |
 | [jachwi-sunbae/803](jachwi-sunbae/803) | #803 매물 상세 effect 정리 화면 판정 |
+| [jachwi-sunbae/804](jachwi-sunbae/804) | #804 사진 크게 보기 effect 정리 화면 판정 |
