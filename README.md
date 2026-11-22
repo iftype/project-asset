@@ -32,6 +32,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [539](jachwi-sunbae/539) | 지도 마커용 서버 렌더러 하나만 싣기 (번들 구성 전후) |
 | jachwi-sunbae | [540](jachwi-sunbae/540) | 랜딩 캡처 WebP, 영상 재압축 (전후 화면 비교) |
 | jachwi-sunbae | [issue-542](jachwi-sunbae/issue-542) | 이슈 #542 동네 찾기 지도 확대 축소 중 하얗게 빔 (화면 기록 GIF) |
+| jachwi-sunbae | [541](jachwi-sunbae/541) | 성능 리포트 첫 마커와 랜딩 전송량 (본문 표 그림 2장) |
 | jachwi-sunbae | [553](jachwi-sunbae/553) | 본 방 기록 통근 버튼, 메뉴 닫기, 리스트 선택 지도 이동, 새 매물 정보 탭 (전후 GIF) |
 | jachwi-sunbae | [554](jachwi-sunbae/554) | 저렴한 한 끼 지도 이동 자동 재검색, 업종 안내 문구, 식당 탭 위쪽 여백 (전후 GIF, 데스크톱 문구 전후, 화면 폭별 여백 전후) |
 | jachwi-sunbae | [555](jachwi-sunbae/555) | 방 비교 매물 1개 상태, 마이 버전 표기 (전후 캡처) |
@@ -64,6 +65,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [715](jachwi-sunbae/715) | 동네 찾기 조건 카드, 월세 슬라이더, 행정동 요약 (GIF 3개) |
 | jachwi-sunbae | [716](jachwi-sunbae/716) | 동네 북마크와 내 기록 지도 찜한 동네 켜고 끄기 (목업 GIF 2개) |
 | jachwi-sunbae | [717](jachwi-sunbae/717) | 매물 상세 바로 수정, 새 매물 이름 입력, 검색창 애니메이션 (GIF 3개) |
+| jachwi-sunbae | [718](jachwi-sunbae/718) | 첫 화면 번들 크기와 예산 380KiB (본문 표 그림) |
 | jachwi-sunbae | [737](jachwi-sunbae/737) | 모바일 하단 탭을 웹과 앱 모두 세 개로 통일한다 (모바일 전후 GIF) |
 | jachwi-sunbae | [738](jachwi-sunbae/738) | 동네 시트의 다방 링크를 정사각형 타일로 옮기고 아래 여백을 줄인다 (모바일 전후 GIF) |
 | jachwi-sunbae | [777](jachwi-sunbae/777) | 랜딩 소개 영상과 화면 캡처 교체, 영상 전체 화면 (전후 캡처 6쌍) |
