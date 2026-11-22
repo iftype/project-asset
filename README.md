@@ -17,6 +17,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 
 | 프로젝트 | PR | 내용 |
 | --- | --- | --- |
+| jachwi-sunbae | [119](jachwi-sunbae/119) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [127](jachwi-sunbae/127) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [140](jachwi-sunbae/140) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [146](jachwi-sunbae/146) | 전후 GIF(목 데이터 화면) |
