@@ -102,6 +102,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [750](jachwi-sunbae/750) | 전후 GIF |
 | jachwi-sunbae | [751](jachwi-sunbae/751) | 전후 GIF |
 | jachwi-sunbae | [752](jachwi-sunbae/752) | 전후 GIF |
+| jachwi-sunbae | [754](jachwi-sunbae/754) | 전후 GIF |
 | jachwi-sunbae | [755](jachwi-sunbae/755) | 전후 GIF |
 | jachwi-sunbae | [777](jachwi-sunbae/777) | 랜딩 소개 영상과 화면 캡처 교체, 영상 전체 화면 (전후 캡처 6쌍) |
 | jachwi-sunbae | [783](jachwi-sunbae/783) | 시도별 경계 파일 brotli (전송 크기 비교, 첫 경계 표시 워터폴) |
