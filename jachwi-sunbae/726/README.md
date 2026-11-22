@@ -8,4 +8,3 @@
 | 파일 | 내용 | 출처 |
 | --- | --- | --- |
 | `726-before-after.gif` | 왼쪽 고치기 전(#726 직전), 오른쪽 고친 뒤(#726 머지 커밋). 요약 행을 누르면 지도 막대의 같은 분류가 켜지고 행이 강조됨 | Linux chromium 1248, production 빌드를 dev 도메인에 route로 띄움, 데스크탑 1280x800, 매물 상세의 주변 인프라 요약에서 병원, 편의점 행을 차례로 누름, dev 익명 계정, 1회, 2026-11-22 |
-| `726-before-after.gif` | 왼쪽 a, 오른쪽 b | Linux chromium 1248, production 빌드를 dev 도메인에 route로 띄움, c, dev 익명 계정, 1회, 2026-11-22 |
