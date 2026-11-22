@@ -24,6 +24,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [210](jachwi-sunbae/210) | 첫 화면 번들 크기 전후 (새로 잰 막대) |
 | jachwi-sunbae | [279](jachwi-sunbae/279) | 프로덕션 CSS 압축 전후 크기 (새로 잰 막대) |
 | jachwi-sunbae | [289](jachwi-sunbae/289) | 전후 GIF(목 데이터 화면) |
+| jachwi-sunbae | [303](jachwi-sunbae/303) | 전후 GIF(목 데이터 화면) |
 | jachwi-sunbae | [321](jachwi-sunbae/321) | 전후 GIF |
 | jachwi-sunbae | [384](jachwi-sunbae/384) | 전후 GIF |
 | jachwi-sunbae | [389](jachwi-sunbae/389) | 통근 경계 가장 긴 멈춤 1.2초 → 0.2초 (본문 숫자 그림) |
