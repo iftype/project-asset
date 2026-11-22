@@ -10,3 +10,6 @@
 | ios-widget-medium-v2.png | PR용 중간 크기(고친 뒤): 이름 왼쪽, 업데이트 시간 오른쪽, 리셋 '1시간 49분 후 초기화'. 2026-11-23 04:41 |
 | ios-widget-small-v2.png | PR용 작은 크기(고친 뒤), 같은 시각 |
 | ios-widget-large-v2.png | PR용 큰 크기(고친 뒤), 에이전트 2개. 2026-11-23 04:42 |
+| en-small-5h.png | PR용 작은 크기, 영어, 5시간 창(오른쪽 위 5h 라벨). 2026-11-23 05:09 |
+| en-small-both.png | PR용 작은 크기, 영어, 5h와 7d 둘 다 |
+| en-large.png | PR용 큰 크기, 영어 |
