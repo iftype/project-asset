@@ -1,0 +1,42 @@
+# 전후 판정
+
+- 화면: `/cheap-meals/restaurant` (mobile)
+- 사용자가 기다리는 순간: 착한가격 가게 수
+- 문턱: 흩어짐의 1배, 0.10초 중 큰 값. 차이가 문턱 이하면 같음이다.
+- 조건: 회선 fast4g, CPU 4배, 빈 캐시 첫 방문, 전후를 번갈아 각 5회(세지 않는 데우기 1회 뒤), 지도 SDK는 무게만 같은 목(지도는 뜨지 않음)
+- 전: http://localhost:4301, 후: http://localhost:4302
+
+## 판정: 같음
+
+사용자 기준 순간이 판정을 정한다. LCP는 참고만 한다. 콘솔 오류나 실패한 요청이 후에서 늘면 순간 값과 상관없이 나빠짐이다.
+
+| 지표 | 전 중앙값 | 후 중앙값 | 차이 | 흩어짐 | 문턱 | 판정 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 사용자 순간 | 2.19초 | 2.20초 | +0.01초 | 0.04초 | 0.10초 | 같음 |
+| LCP(보조) | 2.70초 | 2.72초 | +0.01초 | 0.05초 | 0.10초 | 같음 |
+
+- 사용자 순간 회차별(초): 전 2.19, 2.22, 2.19, 2.21, 2.18, 후 2.19, 2.20, 2.20, 2.20, 2.22
+- 콘솔 오류 수(회차별): 전 1, 1, 1, 1, 1, 후 1, 1, 1, 1, 1
+- 실패한 요청 수(회차별, 4xx와 5xx 포함): 전 2, 2, 2, 2, 2, 후 2, 2, 2, 2, 2
+  - 콘솔: before: Failed to load resource: the server responded with a status of 501 (Not Implemented)
+  - 콘솔: after: Failed to load resource: the server responded with a status of 501 (Not Implemented)
+  - 요청: before: net::ERR_ABORTED http://localhost:4301/api/maps/good-price-stores?latitude=37.3948&longitude=127.1119&radius=2000
+  - 요청: before: 501 http://localhost:4301/api/maps/good-price-stores?latitude=37.5551234&longitude=126.9101234&radius=2000
+  - 요청: after: net::ERR_ABORTED http://localhost:4302/api/maps/good-price-stores?latitude=37.3948&longitude=127.1119&radius=2000
+  - 요청: after: 501 http://localhost:4302/api/maps/good-price-stores?latitude=37.5551234&longitude=126.9101234&radius=2000
+
+## 같은 시각 나란히 보기
+
+`compare.mjs shots/before shots/after side`로 같은 시각 전후를 나란히 붙이고 `side/<N>s.side.png`를 직접 연다. 늦게 뜨는 요소를 적는다.
+
+| 시각 | 전에만 보이는 것 | 후에만 보이는 것 |
+| --- | --- | --- |
+| 2초 | (직접 보고 적는다) | (직접 보고 적는다) |
+| 4초 | (직접 보고 적는다) | (직접 보고 적는다) |
+| 6초 | (직접 보고 적는다) | (직접 보고 적는다) |
+| 8초 | (직접 보고 적는다) | (직접 보고 적는다) |
+
+## PR 본문에 쓸 수 있는 말
+
+- "개선"이라고 쓰지 않는다. 사용자 기준 순간이 좋아지지 않았다.
+- 리팩터링 PR은 판정이 "같음"이어야 통과다.
