@@ -1,0 +1,146 @@
+[
+ {
+  "extraMs": "instant",
+  "build": "before",
+  "run": 1,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": "instant",
+  "build": "before",
+  "run": 2,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": "instant",
+  "build": "before",
+  "run": 3,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": "instant",
+  "build": "after",
+  "run": 1,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": "instant",
+  "build": "after",
+  "run": 2,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": "instant",
+  "build": "after",
+  "run": 3,
+  "loadingSeenAtMs": null,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "before",
+  "run": 1,
+  "loadingSeenAtMs": 1104,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "before",
+  "run": 2,
+  "loadingSeenAtMs": 1053,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "before",
+  "run": 3,
+  "loadingSeenAtMs": 1065,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "after",
+  "run": 1,
+  "loadingSeenAtMs": 1070,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "after",
+  "run": 2,
+  "loadingSeenAtMs": 1075,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 0,
+  "build": "after",
+  "run": 3,
+  "loadingSeenAtMs": 1054,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "before",
+  "run": 1,
+  "loadingSeenAtMs": 1039,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "before",
+  "run": 2,
+  "loadingSeenAtMs": 1065,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "before",
+  "run": 3,
+  "loadingSeenAtMs": 1054,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "after",
+  "run": 1,
+  "loadingSeenAtMs": 1069,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "after",
+  "run": 2,
+  "loadingSeenAtMs": 1061,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ },
+ {
+  "extraMs": 1500,
+  "build": "after",
+  "run": 3,
+  "loadingSeenAtMs": 1062,
+  "stillShown": 0,
+  "mapUrls": "/api/maps/nearby /api/maps/bus-stops"
+ }
+]
