@@ -151,6 +151,7 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | jachwi-sunbae | [792](jachwi-sunbae/792) | 준비 중 화면 삭제 화면 판정 |
 | [jachwi-sunbae/798](jachwi-sunbae/798) | #798 지도 effect 정리 화면 판정 |
 | expo | [expo-widgets-dynamic-enum-default](expo/expo-widgets-dynamic-enum-default) | 위젯 편집 화면 전후 캡처(이슈용) |
+| expo | [expo-widgets-toggle](expo/expo-widgets-toggle) | iOS 위젯 Toggle 전후 캡처와 switch 스타일 비교(이슈용) |
 | [jachwi-sunbae/799](jachwi-sunbae/799) | #799 동네 찾기 effect 정리 화면 판정 |
 | orca | [32716](orca/32716) | iOS 사용량 위젯 캡처(이슈 댓글용) |
 | [jachwi-sunbae/800](jachwi-sunbae/800) | #800 공용 UI effect 정리 화면 판정 |
