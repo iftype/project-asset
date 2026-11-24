@@ -161,4 +161,4 @@ PR과 문서(노션 등)에 넣는 그림 보관소. 공개 레포라 개인정�
 | [jachwi-sunbae/804](jachwi-sunbae/804) | #804 사진 크게 보기 effect 정리 화면 판정 |
 | [jachwi-sunbae/806](jachwi-sunbae/806) | #806 지도 마커 서버 렌더러 제거: 전후 마커 화면, 끌기 GIF, 판정, 마커 성능 원자료 |
 | [jachwi-sunbae/808](jachwi-sunbae/808) | #808 로딩 표시 지연과 겹친 effect 정리 화면 판정, 로딩 문구 지연 확인 |
-| jachwi-sunbae | [809](jachwi-sunbae/809) | iPhone(WebKit) 경로 끝 화면 9장(목 데이터, develop 운영 빌드) |
+| [jachwi-sunbae/809](jachwi-sunbae/809) | #809 iPhone(WebKit) 경로 검증: 경로 끝 화면 9장(목 데이터, develop 운영 빌드) |
