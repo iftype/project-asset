@@ -2,7 +2,7 @@
 
 - PR: https://github.com/woowacourse-teams/2026-jachwi-sunbae/pull/818
 - 제목: [FE][Fix] 탭을 오가도 지도를 보던 자리 그대로 두고 왼쪽 탭 순서를 바꾼다
-- 브랜치: fix/map-view-on-tab-switch(처음 #817로 열었다가 팀 저장소 브랜치로 옮김), 커밋 7df2e824
+- 브랜치: fix/map-view-on-tab-switch(처음 #817로 열었다가 팀 저장소 브랜치로 옮김), 커밋 36909b86
 - 전: develop 2187dabc
 
 | 파일 | 내용 |
